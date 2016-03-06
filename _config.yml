@@ -1,0 +1,28 @@
+name: 1990studio
+favicon: null
+layout_spectrum: 0.6257700808346272
+typography_spectrum: 0.6384991589002311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2797642694786191
+  lightness: 0.1345505730714649
+  saturation: 0.46791780088096857
+  rhythmicContrast: 0.17094674869440496
+purpose: []
