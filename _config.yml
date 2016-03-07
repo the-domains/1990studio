@@ -1,7 +1,7 @@
-name: 1990studio
+name: 'Juan Sepulveda Design '
 favicon: null
-layout_spectrum: 0.6257700808346272
-typography_spectrum: 0.6384991589002311
+layout_spectrum: 0.24179
+typography_spectrum: 0.25787
 title: 'Industrial Designer | Illustrator | Visual Artist'
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.2797642694786191
   lightness: 0.1345505730714649
   saturation: 0.46791780088096857
-  rhythmicContrast: 0.17094674869440496
+  rhythmicContrast: 0.5
 purpose: []
