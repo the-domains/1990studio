@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[1990studio]]></title>
         <description><![CDATA[1990studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/1990studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 19:17:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 19:18:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/1990studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>WORKS OF JUAN SEPULVEDA</p>]]></description>
-            <link>undefinedbdc05648-d6fa-4bf3-8422-44eeca98eacb/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c143ab1-1dde-4121-9618-e0709aebd838.jpg">]]></description>
+            <link>https://thegrid.ai/1990studio/bdc05648-d6fa-4bf3-8422-44eeca98eacb/index.html</link>
             <guid isPermaLink="false">bdc05648-d6fa-4bf3-8422-44eeca98eacb</guid>
-            <pubDate>Mon, 07 Mar 2016 19:16:52 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 19:18:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
