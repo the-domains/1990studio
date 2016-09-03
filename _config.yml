@@ -1,8 +1,19 @@
+layout_spectrum: 0.9474131232127547
+typography_spectrum: 0.5028413403779268
+color:
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  brandStrength: 0.7472512547392398
+  lightness: 0.9560094359330833
+  saturation: 0.0462489384226501
+  rhythmicContrast: 0.8644071866292506
 name: 'Juan Sepulveda Design '
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.34203
-title: 'Industrial Designer | Illustrator | Visual Artist'
+title: Industrial Designer | Illustrator | Visual Artist
 cta:
   domain: null
   bucket: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#474747'
-    - '#6f6f6f'
-    - '#c3c3c3'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
